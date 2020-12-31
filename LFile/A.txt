@@ -1,1 +1,16 @@
 
+Here is the URL of both the Environment
+URL : https://elgi-dev.cloud.thingworx.com/Thingworx/Home (Development)
+URL : https://elgi-prod.cloud.thingworx.com/Thingworx/Home (Production)
+
+Password for PROD
+
+Administrator : v859PeChikOdatu
+
+USERNAME for Prod : bom-tw-elgi-prd1
+
+Password for DEV
+
+Administrator : CHlrajigI1i4amo
+
+USERNAME for Dev: bom-tw-elgi-dev1
